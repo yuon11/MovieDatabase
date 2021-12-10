@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieDatabase</string>
+    <string name="default_poster">default_poster.jpg</string>
+</resources>
